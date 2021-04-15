@@ -1,2 +1,2 @@
 # myMemoryGame
-MemoryGame
+Just stast to play!
