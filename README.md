@@ -1,2 +1,2 @@
 # myMemoryGame
-Just start to play!
+A retro grid-based game in vanilla JavaScript, HTML and CSS
